@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+这里是CPXOPZ，还在努力学习、奋斗拼搏中，希望能带来些有新意的东西。
 <!--
 **CPXOPZ/CPXOPZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
